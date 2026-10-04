@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/
+external_models/
+World-Model-2018-main/checkpoints/
